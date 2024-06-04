@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/devops-inthe-east/demo-app
-  newTag: latest
+  newTag: 7fd71a16fbd1ad5116b27093403bcd22a41ba3db
